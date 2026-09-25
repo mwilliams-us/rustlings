@@ -36,7 +36,7 @@ The Rustlings exercises cover concepts including:
 
 - [x] Intro
 - [x] Variables
-- [ ] Functions
+- [x] Functions
 - [ ] Primitive Types
 - [ ] If / Control Flow
 - [ ] Loops
